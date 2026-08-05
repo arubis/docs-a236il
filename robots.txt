@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-nj9jlp.date-me.pro/sitemap.xml
